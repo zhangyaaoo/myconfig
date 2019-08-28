@@ -1,0 +1,11 @@
+[user]
+	email = <+++>@gmail.com
+	name = <+++>
+[alias]
+	co = checkout
+	st = status
+	ci = commit
+	br = branch
+	unstage = reset HEAD --
+[core]
+	editor = vim
